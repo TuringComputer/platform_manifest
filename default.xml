@@ -95,7 +95,6 @@
   <project path="external/svox" name="platform_external_svox" />
   <project path="external/tagsoup" name="platform_external_tagsoup" />
   <project path="external/tcpdump" name="platform_external_tcpdump" />
-  <project path="external/tinyalsa" name="platform_external_tinyalsa" />
   <project path="external/tinyxml" name="platform_external_tinyxml" />
   <project path="external/tremolo" name="platform_external_tremolo" />
   <project path="external/v8" name="platform_external_v8" />
@@ -198,6 +197,8 @@
 
   <!-- Turing's private repositories -->
   <project path="device/turing" name="device_turing" />
+  <project path="kernel_imx" name="linux" />
+  <project path="bootable/bootloader/uboot-imx" name="uboot" />
   <!-- end -->
 
 </manifest>
