@@ -3,9 +3,7 @@
 
   <!-- Turing's manifest file for IMX53 Gingerbread projects -->
 
-  <remote  name="turing"
-           fetch=".."
-           review="https://github.com/TuringComputer" />
+  <remote  name="turing" fetch="https://github.com/TuringComputer" />
 
   <default revision="imx53_gingerbread" remote="turing" />
 
