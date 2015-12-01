@@ -1,2 +1,5 @@
-# platform_manifest
-Android Manifest
+Android Manifest repository
+
+Branches:
+master
+imx53_gingerbread
