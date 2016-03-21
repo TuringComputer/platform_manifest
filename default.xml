@@ -87,7 +87,7 @@
   <project path="external/chromium_org/third_party/WebKit" name="platform_external_chromium_org_third_party_WebKit" />
   <project path="external/chromium_org/third_party/angle" name="platform_external_chromium_org_third_party_angle" />
   <project path="external/chromium_org/third_party/boringssl/src" name="platform_external_chromium_org_third_party_boringssl_src" />
-  <project path="external/chromium_org/third_party/brotli/src" name="platform_external_chromium_org/third_party_brotli_src" />
+  <project path="external/chromium_org/third_party/brotli/src" name="platform_external_chromium_org_third_party_brotli_src" />
   <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform_external_chromium_org_third_party_eyesfree_src_android_java_src_com_googlecode_eyesfree_bra" />
   <project path="external/chromium_org/third_party/freetype" name="platform_external_chromium_org_third_party_freetype" />
   <project path="external/chromium_org/third_party/icu" name="platform_external_chromium_org_third_party_icu" />
