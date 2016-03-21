@@ -534,7 +534,7 @@
   <project path="external/powerdebug" name="platform_external_powerdebug" />
   <project path="external/mtd-utils" name="platform_external_mtd-utils" />
   <project path="external/busybox" name="platform_external_busybox" />
-  <project path="hardware/realtek" name="  platform_hardware_realtek" />
+  <project path="hardware/realtek" name="platform_hardware_realtek" />
   <!-- end -->
 
   <!-- Turing's private repositories -->
