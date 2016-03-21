@@ -240,7 +240,7 @@
   <project path="external/openssh" name="platform_external_openssh" groups="pdk-cw-fs"/>
   <project path="external/openssl" name="platform_external_openssl" groups="pdk" />
   <project path="external/oprofile" name="platform_external_oprofile" groups="pdk-cw-fs" />
-  <project path="external/owasp/sanitizer" name="platform_external_owasp/sanitizer" />
+  <project path="external/owasp/sanitizer" name="platform_external_owasp_sanitizer" />
   <project path="external/pcre" name="platform_external_pcre" groups="pdk-cw-fs" />
   <project path="external/pdfium" name="platform_external_pdfium" groups="pdk-cw-fs" />
   <project path="external/pixman" name="platform_external_pixman" groups="pdk-cw-fs" />
