@@ -7,10 +7,6 @@
 
   <default revision="imx6x_lollipop" remote="turing" />
 
-  <remote  name="turing" fetch="https://github.com/TuringComputer" />
-
-  <default revision="imx6x_lollipop" remote="turing" />
-
   <project path="build" name="platform_build" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
