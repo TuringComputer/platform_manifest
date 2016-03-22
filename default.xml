@@ -3,7 +3,7 @@
 
   <!-- Turing's manifest file for IMX6X Lollipop projects -->
   <remote  name="turing" fetch="https://github.com/TuringComputer" />
-  <remote  name="aosp"   fetch=".." />
+  <remote  name="aosp"   fetch="https://android.googlesource.com" />
 
   <default revision="imx6x_lollipop" remote="turing" />
 
